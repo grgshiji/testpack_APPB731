@@ -12,5 +12,13 @@
   "supportedAppblockVersions": [
     "1.0.0"
   ],
-  "repoType": "mono"
+  "repoType": "mono",
+  "dependencies": {
+    "APPB731_Block1": {
+      "directory": "APPB731_Block1"
+    },
+    "APPB731_Block2": {
+      "directory": "APPB731_Block2"
+    }
+  }
 }

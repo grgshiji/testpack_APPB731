@@ -1,0 +1,20 @@
+{
+  "blockId": "DFknt3ys9tpvT8yJ9JdYb",
+  "name": "APPB731_Block2",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/grgshiji/testpack_APPB731.git",
+    "ssh": "git@github.com:grgshiji/testpack_APPB731.git",
+    "branch": "block_APPB731_Block2"
+  },
+  "parentBlockIDs": [
+    "33GevfopccMlzqffYeLUj"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "node index.js"
+}
